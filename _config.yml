@@ -1,0 +1,28 @@
+name: Shortspin
+favicon: null
+layout_spectrum: 0.7202594808768481
+typography_spectrum: 0.044406946981325746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7856250093318522
+  lightness: 0.632880131714046
+  saturation: 0.925972736440599
+  rhythmicContrast: 0.31144204223528504
+purpose: []
